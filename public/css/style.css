@@ -1,0 +1,23 @@
+
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #000019;
+}
+
+#portfolioNav li.sectionActive {
+	border-bottom: 2px solid black;
+}
+
+#portfolioNav .navbar-right li {
+	text-align: center;
+	width: 150px;
+}
+
+#portfolioNav .navbar-right li span.fa {
+	margin-right: 5px;
+}
+
+.codeLinks {
+	font-size: 100%;
+}
