@@ -19,3 +19,22 @@ body {
 .codeLinks {
 	font-size: 100%;
 }
+
+.project-description {
+	text-align: justify; 
+	text-justify: inter-word; 
+	font-size: 120%;
+	margin-top: 20px;
+}
+
+.about-me {
+	text-align: center; 
+	font-size: 120%; 
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.contact-row {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
